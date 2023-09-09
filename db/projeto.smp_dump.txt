@@ -1,0 +1,7 @@
+
+State Machine - |projeto|curr_state_calc
+Name curr_state_calc.mult curr_state_calc.sub curr_state_calc.soma curr_state_calc.00 
+curr_state_calc.00 0 0 0 0 
+curr_state_calc.soma 0 0 1 1 
+curr_state_calc.sub 0 1 0 1 
+curr_state_calc.mult 1 0 0 1 
