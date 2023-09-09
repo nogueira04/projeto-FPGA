@@ -1,2 +1,2 @@
 # projeto-FPGA
-Projeto implementado em uma FPGA utilizando Verilog.
+Projeto com keypad implementado em uma FPGA utilizando Verilog.
